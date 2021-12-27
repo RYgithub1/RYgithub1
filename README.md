@@ -1,13 +1,9 @@
 <h2>😄Welcome! Hope to see you.</h2>
 <h3>HAPPY CREATING!</h3>
 
-<p align="left">
-  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=RYgithub1&theme=vue&show_icons=true&count_private=true" style="border_color:transparent;" />
-  
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYgithub1&theme=vue&layout=compact" />
-  
-  <!-- <img alt="Card" height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=RYgithub1&repo=github-readme-stats" /> -->
-  
+<p>
+    <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=RYgithub1&theme=vue&show_icons=true&count_private=true" />
+    <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYgithub1&theme=vue&layout=compact" />
 </p>
 
 
